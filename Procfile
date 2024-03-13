@@ -1,0 +1,1 @@
+web:  gunicorn mobile_price2:application
